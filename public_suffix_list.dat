@@ -260,6 +260,16 @@ sa.gov.au
 tas.gov.au
 vic.gov.au
 wa.gov.au
+// Historic .id.au 3LDs (Sites still exist - https://web.archive.org/web/20050404073556/http://www.id.au/id-domains.shtml)
+dropbear.id.au
+echidna.id.au
+emu.id.au
+ironbark.id.au
+lorikeet.id.au
+waratah.id.au
+wattle.id.au
+wombat.id.au
+wallaroo.id.au
 // 4LDs
 // education.tas.edu.au - Removed at the request of the Department of Education Tasmania
 schools.nsw.edu.au
